@@ -1,7 +1,7 @@
-package br.com.cod3r.factory.apple.after.factory;
+package criacionais.factory.apple.after.factory;
 
-import br.com.cod3r.factory.apple.after.model.IPhone;
-import br.com.cod3r.factory.apple.after.model.IPhone11Pro;
+import criacionais.factory.apple.after.model.IPhone;
+import criacionais.factory.apple.after.model.IPhone11Pro;
 
 public class IPhone11ProFactory extends IPhoneFactory {
 

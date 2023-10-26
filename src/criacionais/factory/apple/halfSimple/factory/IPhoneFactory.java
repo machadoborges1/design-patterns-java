@@ -1,6 +1,6 @@
-package br.com.cod3r.factory.apple.halfSimple.factory;
+package criacionais.factory.apple.halfSimple.factory;
 
-import br.com.cod3r.factory.apple.halfSimple.model.IPhone;
+import criacionais.factory.apple.halfSimple.model.IPhone;
 
 public abstract class IPhoneFactory {
 

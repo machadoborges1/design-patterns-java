@@ -1,4 +1,4 @@
-package br.com.cod3r.factory.app.dbadapter.after.db;
+package criacionais.factory.app.dbadapter.after.db;
 
 public class OracleDB implements DB {
 

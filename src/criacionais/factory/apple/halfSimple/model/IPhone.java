@@ -1,4 +1,4 @@
-package br.com.cod3r.factory.apple.halfSimple.model;
+package criacionais.factory.apple.halfSimple.model;
 
 public abstract class IPhone {
 	

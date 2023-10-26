@@ -1,4 +1,4 @@
-package br.com.cod3r.factory.apple.before.model;
+package criacionais.factory.apple.before.model;
 
 public class IPhoneXSMax extends IPhone {
 

@@ -1,7 +1,7 @@
-package br.com.cod3r.factory.apple.simple;
+package criacionais.factory.apple.simple;
 
-import br.com.cod3r.factory.apple.simple.factory.IPhoneSimpleFactory;
-import br.com.cod3r.factory.apple.simple.model.IPhone;
+import criacionais.factory.apple.simple.factory.IPhoneSimpleFactory;
+import criacionais.factory.apple.simple.model.IPhone;
 
 public class Client {
 	
